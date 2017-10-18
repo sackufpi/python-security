@@ -5,11 +5,7 @@
 ################################################################################
 ## raw_socket_sniff_example.py Software Developer SACKUFPI                    ##
 ##                                                                            ##
-## Yoandrys Peña Meriño                                                       ##
-## MsC. Computer SCience                                                      ##
-## Eng. Telecommunications and Electronic                                     ##                           
-## Buenos Aires, Argentina                                                    ##
-## Copyright (C) 2015 <yoandrisp2007@gmail.com>                               ##                                                             
+## Yoandrys Peña Meriño                                                       ##                                                             
 ##                                                                            ##
 ################################################################################
 
